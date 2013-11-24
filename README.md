@@ -1,11 +1,23 @@
 Vagrant + Puppet Workshop
 =
 
+Prerequisite: VirtualBox
+
 Installing Vagrant
 -
 
-Run the following command.
+Go to the download page: http://downloads.vagrantup.com/
 
-`$gem install vagrant`
+Get Started with Vagrant
+-
+
+Initialize a new Vagrant project directory.
+
+```
+$ mkdir ~/Vagrant
+$ cd ~/Vagrant
+$ vagrant init
+```
+
 
 
